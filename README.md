@@ -16,7 +16,8 @@ Espero também conseguir criar conteúdos, que ao prepará-los poderei aprender 
 
 ---
 
-🧰 Toolbox
+🧰 Toolbox 
+
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/>
@@ -25,12 +26,10 @@ Espero também conseguir criar conteúdos, que ao prepará-los poderei aprender 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/>
 
-
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<marcotuliodev>&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliodev&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=<marcotuliodev>&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcotuliodev&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
