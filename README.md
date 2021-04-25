@@ -7,7 +7,7 @@ PSV Engenharia de Sistemas na cidade de Ouro Branco, onde continuo até então.
 
 Pela PSV já desenvolvi sistemas industriais para a Gerdau, participei do projeto que desenvolveu um aplicativo de mobilidade para a Cooperauto
 e há a aproximadamente 2 anos atuo atendendo diretamente o cliente Vallourec, inicialmente entrei atuando em projetos de Businnes Inteligence, 
-mas atualmente auto nos projetos de desenvolvimento vinculados a Automação da empresa e ao setor de Digital.
+mas atualmente auto nos projetos de desenvolvimento vinculados ao Digital da Automação.
 
 Normalmente, utilizo mais o Git Lab profissionalmente, mas estou reiniciando a atuação aqui no Git Hub com intuito de desenvolver projetos pessoais 
 e atuar mais junto a comunidade tech.
