@@ -1,7 +1,5 @@
 ### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o Marco Túlio!
 
-![Twitter URL](https://img.shields.io/twitter/url?label=marcotuliodev&style=social&url=https%3A%2F%2Ftwitter.com%2Fmarcotulio_dev)
-
 Eu sou graduado em Sistemas de Informação pela UFVJM e atuo profissionalmente na área desde 2015, quando comecei a trabalhar na empresa 
 PSV Engenharia de Sistemas na cidade de Ouro Branco, onde continuo até então.
 
