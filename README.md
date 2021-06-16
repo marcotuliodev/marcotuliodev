@@ -10,7 +10,7 @@ mas atualmente auto nos projetos de desenvolvimento vinculados ao Digital da Aut
 Normalmente, utilizo mais o Git Lab profissionalmente, mas estou reiniciando a atuação aqui no Git Hub com intuito de desenvolver projetos pessoais 
 e atuar mais junto a comunidade tech.
 
-Espero também conseguir criar conteúdos, que ao prepará-los poderei aprender e também por ventura ensinar para as outras pessoas.
+Espero também conseguir criar conteúdos, pois ao prepará-los poderei aprender e também por ventura ensinar para as outras pessoas.
 
 ---
 
